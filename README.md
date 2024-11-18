@@ -2,9 +2,14 @@
 
 This script automates network or node operations for Blockless Bless Network Bot.
 
-## Farcaster Dog Network
+## Register
 
 - https://farcasterdog.xyz/referral/341055
+- Login Via Warpcast
+- Scan Barcode ¬ SS Barcode
+- Back To Web
+- Complete All Task
+- ✅ Done
 
 ## Features Detail
 
